@@ -1,0 +1,17 @@
+{
+  "name": "sysana.ai",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/auth-helpers-nextjs": "latest",
+    "lucide-react": "latest",
+    "@radix-ui/react-navigation-menu": "latest",
+    "class-variance-authority": "latest"
+  }
+}
